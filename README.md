@@ -54,6 +54,12 @@ This project is a web-based application that allows users to browse restaurants,
 - Integrate Online Payment Gateways
 - Add Admin Panel for managing restaurants and menus
 
+- Images :-
+- ## 🛍️ Bag Page
+
+![Bag Page](./Screenshorts/login.png)
+
+
 ## Author
 
 - Suraj
