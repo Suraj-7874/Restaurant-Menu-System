@@ -55,9 +55,9 @@ This project is a web-based application that allows users to browse restaurants,
 - Add Admin Panel for managing restaurants and menus
 
 - Images :-
-- ## 🛍️ Bag Page
+-
 
-![Bag Page](./Screenshorts/login.png)
+![admin Page](.Screenshot/admin.png)
 
 
 ## Author
