@@ -57,7 +57,7 @@ This project is a web-based application that allows users to browse restaurants,
 - Images :-
 -
 
-![admin Page](.Restaurant-Menu-System/blob/main/Screenshot/add_card.png)
+![admin Page](./Screenshot/add_card.png)
 
 
 ## Author
